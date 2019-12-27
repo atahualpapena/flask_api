@@ -1,6 +1,6 @@
 ### Code Challenge
 
-This small Flask application will display the social network requests of the client on a web page served via localhost.
+This is a small Flask API using v2.0
 
 ### How to run
 
